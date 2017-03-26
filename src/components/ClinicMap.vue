@@ -24,7 +24,7 @@
     name: 'hello',
     data () {
       return {
-        center: {lat: 1.29, lng: 103.82},
+        center: {lat: 1.4017128, lng: 103.793967},
         infoOptions: {
           pixelOffset: {
             width: 0,
@@ -44,7 +44,6 @@
       }
     },
     mounted () {
-      this.getLocation()
       this.readClinicFile()
     },
     methods: {
@@ -61,7 +60,7 @@
       readClinicFile() {
         var rawFile = new XMLHttpRequest();
         var vm = this;
-        rawFile.open("GET", '../../static/output.csv', false);
+        rawFile.open("GET", '../../static/clinic.csv', false);
         rawFile.onreadystatechange = function ()
         {
           if(rawFile.readyState === 4)
