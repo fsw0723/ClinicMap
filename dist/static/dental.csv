@@ -1,0 +1,917 @@
+S/N, ZONE,	AREA,	CLINIC NAME,	ADDRESS,	TEL,	WEEKDAYS,	SAT/SUN/PH,	REMARKS, LAT, LNG
+"2","Central ","Telok Ayer","Amoy Street Dental Pte Ltd","40 Amoy Street
+Singapore 069866","6222 0553","Mon & Wed:
+0845 - 2030
+Tue, Thurs & Fri:
+0845 - 1830","Sun & PH:
+Closed","", 1.280642, 103.847001
+"9","Central ","Telok Blangah","Crescent Dental Clinic","Blk 12 Telok Blangah Crescent
+#01-115
+Singapore 090012","6270 0732","Mon-Fri:
+0930-1700, 1830-2130","Sat & Sun:
+0930-1700
+PH:
+Closed","", 1.27719, 103.819525
+"3","Central ","Orchard","Asia Healthcare Dental Surgeons","435 Orchard Road
+#15-02 Wisma Atria
+Singapore 238877","6737 2662","Mon-Fri:
+0830-1800","Sat:
+0830-1500","", 1.30351, 103.833056
+"8","Central ","Tanjong Katong","Corporate Dental Clinic","38 Haig Road
+Singapore 438741","6747 7919","Mon-Thurs:
+0930 - 1230, 1400 - 1900
+Fri:
+0930 - 1230, 1400 - 1700","Sat:
+0900 - 1400
+Sun & PH:
+Closed","Dentist who prefers not to treat children", 1.313054, 103.8958509
+"7","Central ","Tanglin","Choo Dental Surgery","19 Tanglin Road
+#06-26 Tanglin Shopping Centre
+Singapore 247909","6235 4737","Mon-Fri:
+0900-1200, 1400-1600","Sat:
+0900-1200
+Sun/ PH:
+Closed","", 1.306364, 103.827018
+"10","Central ","Raffles Place","Dennis Tan Dental Surgery","9 Raffles Place
+#02-23 Republic Plaza II
+Singapore 048619","6438 5622","Mon-Fri:
+0900-1300,1400-1800","Sat:
+0900-1300
+Sun & PH:
+Closed","", 1.283242, 103.850837
+"4","Central ","Orchard","Atria City Dental Group Pte Ltd","391B Orchard Road
+#08-09 Ngee Ann City Tower B
+Singapore 238874","6737 2777","Mon-Fri:
+0830-1700","Sat: 0830-1400
+Sun & PH:
+Closed","On Appointment Basis only
+Root Canal treatment only done at Specialist level", 1.302707, 103.834289
+"1","Central ","Toa Payoh","Advanced Dental Clinic (Toa Payoh) Pte Ltd","Blk 18 Lorong 7
+Toa Payoh #01- 256
+Singapore 310018","6397 5411","Mon- Fri:
+0900 - 1300, 1400 - 1700, 1800 - 2100
+
+","Sat & Sun:
+0900 - 1300
+1400 - 1700
+PH:
+Closed","", 1.335827, 103.856404
+"6","Central ","Tanjong Pagar","Charismile Dentistry","10 Anson Road #02- 47
+International Plaza
+Singapore 079903","6557 2655","Mon- Fri:
+1000 - 1900","Sat:
+1000 - 1400
+Sun & PH:
+Closed","", 1.276109, 103.845924
+"5","Central ","Orchard","Atria-Pan Dental Group Pte Ltd","290 Orchard Road
+#19-01 Paragon Medical Tower
+Lift Lobby 2
+Singapore 238859","6733 3133","Mon-Fri:
+0900-1800","Sat: 0900-1300
+Sun & PH:
+Closed","", 1.30451, 103.836184
+"14","Central ","Dhoby Ghaut","Dhoby Dental Surgery","150 Orchard Road
+#02-09 Orchard Plaza
+Singapore 238841","6333 5285","Mon-Fri:
+1130-1730","Sat:
+1200-1400","", 1.301284, 103.841309
+"15","Central ","Dover","Dover Dental Surgery Pte Ltd","Blk 28 Dover Crescent
+#01-87
+Singapore 130028","67790233","Mon-Fri:
+0900-1300, 1400-1700, 1800-2100","Sat & Sun:
+0900-1300, 1400-1700
+PH:
+Closed","", 1.304381, 103.781952
+"19","Central ","North Bridge","GPA Centre For Dentistry ","600 North Bridge Parkview Square
+#14- 04/05
+Singapore 188778","6732 1020","Mon- Fri:
+0900- 1300, 1400- 1800","Sat:
+0900- 1300
+Sun & PH:
+Closed","Please call clinic for PH visit", 1.300191, 103.857614
+"11","Central ","Marina Bay","Dental On The Bay (MBS) ","2 Bayfront Avenue
+#B1-60
+Singapore 018972","6688 7303","Mon-Fri:
+1000-2200","Sat/Sun:
+1000-1800","By appointment", 1.283949, 103.858846
+"18","Central ","Tanjong Pagar","Glittz Smile Dental Surgery","24 Peck Seah St
+#01-01 Nehsons Building
+Singapore 079314","6224 4286
+9004 9676","Mon-Fri:
+0900 - 1800","Sat & Sun:
+0900 - 1800
+PH:
+Closed","", 1.278261, 103.844907
+"12","Central ","Telok Blangah","Dentalplus Clinic Pte Ltd","Block 78-B Telok Blangah Street 32
+#01-21
+Singapore 102078","6270 6800","Mon-Fri:
+0900-1945","Sat:
+0900-1700
+Sun:
+0900-1300
+PH:
+Closed","", 1.273562, 103.808121
+"17","Central ","Dhoby Ghaut","Elite Dental Group Pte Ltd","9 Penang Road
+#07- 16/ 17 Park Mall
+Singapore 238459","6333 4456","Mon- Fri:
+0900- 1300, 1400- 1800","Sat:
+0900- 1300
+Sun & PH:
+Closed","", 1.298048, 103.844577
+"16","Central ","Dhoby Ghaut","Dr Angeline Ang & Associates","9 Penang Road
+#07-02 Park Mall
+Singapore 238459","6338 3339","Mon-Fri:
+0900-1200, 1400-1700","Sat:
+0900-1400
+Sun & PH:
+Closed","", 1.298048, 103.844577
+"13","Central ","Toa Payoh","DentiJoy Dental Surgery","Blk 94 Toa Payoh Lorong 4
+#01-28
+Singapore 310094","6252 9047","Mon-Fri:
+0900-1230, 1400-1700, 1900-2100","Sat:
+0900-1230
+Sun & PH:
+Closed","", 1.338881, 103.849803
+"20","Central ","Novena","GPA Dentalcare @ Goldhill","101 Thomson Road #01- 96 to 99
+United Square
+Singapore 307591","6251 9633","Mon, Wed & Thur:
+0900- 1300, 1400- 1800
+Tue & Fri:
+0900- 1300, 1400- 1800, 1800- 2100","Sat & Sun:
+0900- 1300, 1400- 1800
+PH:
+Closed","Please call clinic for PH visit", 1.317711, 103.843491
+"24","Central ","Chinatown","Horizon Dental Surgery","151  Chin Swee Rd
+#01-25 Manhattan House
+Singapore 169876","6733 5388","Mon-Fri:
+0900-1300, 1400-1730","Sat:
+0900-1300, 1400-1500
+Sun/ PH:
+Closed","", 1.287186, 103.84065
+"21","Central ","Toa Payoh","Greenlife Dental Clinic (Toa Payoh) Pte Ltd","Blk 186 Toa Payoh Central
+#01-418
+Singapore 310186","6250 0630","Mon-Fri:
+0900-2100","Sat:
+0900-1700
+Sun/ PH:
+Closed","", 1.33261, 103.8499719
+"23","Central ","Harbourfront","HarbourPoint Dental Centre","1 Harbourfront Place
+#01-02 Harbourfront Tower One
+Singapore 098633","6271 8133
+6271 8134
+9786 2527","Mon-Fri:
+0900 - 1800","Sat & Sun:
+0900 - 1800
+PH:
+Closed","", 1.265267, 103.818927
+"30","Central ","Little India","Little India Dentist","12 Kebrau Road
+Singapore 219151","6293 0355","Mon - Fri:
+0900 - 1300, 1400 - 1800, 1800 - 2100
+
+","Sat:
+0900 - 1300, 1400 - 1900
+Sun:
+0900 - 1300, 1400 - 1700
+PH:
+Closed","", 1.306815, 103.8515989
+"28","Central ","Telok Blangah","iSmile Dental Clinic","78-A Telok Blangah Street 32
+#01-12
+Singapore 101078","6272 0656","Mon-Fri:
+0900 - 1230, 1330 - 1700, 1800 - 2100
+Thur:
+0900 - 1300","Sat:
+0900 - 1230, 1330 - 1700
+Sun:
+0900 - 1300
+PH:
+Closed","", 1.273512, 103.8090239
+"27","Central ","Raffles Place","International Dental Centre","6 Gemmill Lane
+Singapore 069249","6372 0082","Mon-Fri:
+0930-1730","Sat:
+0930-1400
+Sun/ PH:
+Closed","", 1.282534, 103.847058
+"22","Central ","Beach Road","GreenLife Dental Clinic Pte Ltd","Blk 14 Beach Road
+#01-4661
+Singapore 190014","6299 3556","Mon-Fri:
+0900-1800","Sat:
+0900-1300
+Sun/ PH:
+Closed","", 1.303684, 103.863006
+"25","Central ","Tanjong Pagar","I.Dental Invisible Braces Pte Ltd","168 Robinson Road
+#09-13 Capital Tower
+Singapore 068912","6323 2813","Mon-Fri:
+0900-2000","Sat:
+0900-1700
+Sun & PH:
+Closed","", 1.27757, 103.847334
+"26","Central ","Tanjong Pagar","I.Dental Surgeons Pte Ltd","168 Robinson Road
+#01-04 Capital Tower
+Singapore 068912","6323 2813","Mon-Fri:
+0900-1400, 1500-1630, 1800-2000
+Thu:
+0900-1400,1500-1630","Sat:
+0900-1400,1500-1630
+Sun & PH:
+Closed","", 1.27757, 103.847334
+"29","Central ","Orchard","Jesselton Dental Clinic","9 Scotts Road #06- 05
+Pacific Plaza
+Singapore 228210","6734 2234","Mon-Fri:
+0900-1800","Sat:
+0900-1500
+Sun & PH:
+Closed","", 1.306595, 103.831788
+"35","Central ","Orchard","Pacific Healthcare Specialist Centre (PHSC)","290 Orchard Road
+#19- 01 Paragon
+Singapore 238859","6883 6973","Mon- Fri:
+0900- 1300, 1400- 1800","Sat:
+0900- 1300
+Sun & PH:
+Closed","", 1.30451, 103.836184
+"36","Central ","Orchard","Parkway Dental Practice","9 Scotts Road
+#12-02 Pacific Plaza
+Singapore 228210","68369808","Mon-Fri:
+0900-1800","Sat:
+0900-1400","", 1.306595, 103.831788
+"34","Central ","Dhoby Ghaut","Ng & Lum Dental Surgery","8 Wilkie Road #01- 01
+Wilkie Edge
+Singapore 228095","6336 1836","Mon- Sat:
+0900- 1230, 1400- 1700","Sun & PH:
+Closed
+","", 1.302102, 103.849615
+"33","Central ","Upper Thomson","LVDA Pte Ltd","225A Upper Thomson Road
+Thomson Ridge Estate
+Singapore 574357","6225 9383","Mon- Fri:
+1100- 2100","Sat & Sun:
+1030- 1800
+PH:
+Closed","", 1.352467, 103.834768
+"31","Central ","Novena","LQ Dental Pte Ltd","10 Sinaran Drive
+#11-10/11 Novena Medical Centre
+(Square 2)
+Singapore 307506","6538 0890","Mon-Fri:
+0900-1700","Sat:
+0900-1300
+Sun & PH:
+Closed","", 1.321061, 103.844476
+"32","Central ","Beach Road","Lu_Ally Dental Surgery","250 North Bridge Road
+Raffles City Tower #05-04
+Singapore 179101","6339 0990","Mon-Fri:
+0900-1800","Sat:
+0900-1300
+Sun & PH:
+Closed","", 1.2934969, 103.852787
+"39","Central ","Toa Payoh","Simply Dental","Simply Dental
+212 Lorong 8 Toa Payoh
+#01- 35
+Singapore 310212","","Mon:
+0900- 1300, 1400- 1700
+Tue & Fri:
+0900- 1300, 1400- 1800, 1830- 2130
+Wed & Thurs:
+0900- 1300, 1400- 1800","Sat:
+0900- 1300, 1400- 1800
+Sun & PH:
+Closed","", 1.34066, 103.854318
+"38","Central ","Potong Pasir","Regent Dental Clinic","Blk 136 Potong Pasir Ave 3
+#01-164
+Singapore 350136","6280 4577","Mon-Fri:
+0930-1230, 1400-1630, 1830-2030
+Wed:
+0930-1230, 1400-1630","Sat:
+0900-1230, 1400-1630
+Sun & PH:
+Closed","", 1.334079, 103.866477
+"37","Central ","Balestier","Plaza Dental","400 Balestier Road
+Balestier Plaza #01-43
+Singapore 329802","6252 9960","Mon & Wed:
+0900-1230, 1400-2000
+Tue & Thurs:
+0900-1230, 1400-1630
+Fri:
+0900-1230, 1400-1800","Sat:
+0900-1230, 1400-1630
+Sun & PH:
+Closed","", 1.325601, 103.850723
+"40","Central ","Raffles Place","SMG Dental","11 Collyer Quay
+#03- 28 The Arcade
+Singapore 049317","6221 1395","Mon- Fri:
+0900- 1800","Sat:
+0900- 1300
+Sun & PH:
+Closed","", 1.283529, 103.852003
+"50","Central ","Orchard","The Dental Studio","290 Orchard Road
+#13- 01/06 Paragon
+Singapore 238859","6836 0050","Mon-Fri:
+0900-1700","Sat:
+0900-1300
+Sun & PH:
+Closed","", 1.30451, 103.836184
+"45","Central ","Orchard","Straits Dental Group","360 Orchard Road
+#04-01 International Building
+Singapore 238869","6235 4686","Mon-Fri:
+0930-1830","Sat:
+0930-1530
+Sun & PH:
+Closed","", 1.306348, 103.830876
+"43","Central ","Tanjong Katong","Smiles R Us (Tanjong Katong)","11 Tanjong Katong Road
+#03- 10 One KM Mall
+Singapore 437151","6702 3345","Mon- Fri:
+1000 - 1300, 1400 - 1730, 1830 - 2200","Sat & Sun:
+1000 - 1300, 1400 - 1730, 1830 - 2200
+PH:
+Closed","", 1.299581, 103.897162
+"47","Central ","Alexandra","TDH The Dental Hub (PSA)","460 Alexandra Road
+#02- 16 PSA Building
+Singapore 119963","6274 9682","Mon- Fri:
+0900- 2100","Sat & Sun:
+0900- 1800
+PH:
+Closed","", 1.273673, 103.801381
+"44","Central ","Tanjong Pagar","St Andrew's Dental Surgeons Pte Ltd","100 Tras Street #11-01
+Amara Corporate Tower
+Singapore 079027","6224 0055","Mon-Fri:
+0930-1400, 1500-1900","Sat:
+0930-1500
+Sun/ PH:
+Closed","Korean & Japanese speaking Dr is available", 1.274929, 103.843549
+"46","Central ","Bishan","T & T Dental Surgery","Blk 505B Bishan Street 11
+#01-418
+Singapore 572505","6353 6449","Mon- Fri:
+0830 - 1230, 1400 - 1700, 1900 - 2100","Sat:
+0830 - 1230
+Sun & PH:
+Closed","Appointment basis only", 1.348272, 103.84881
+"42","Central ","Holland Village","Smilepoint Dental Centre","43 Jalan Merah Saga
+#01-64
+Singapore 278115","6475 1028","Mon, Tue, Thurs & Fri:
+0900-1800
+Wed:
+1400-1800","Sat:
+0900-1630
+Sun:
+Closed","", 1.311356, 103.796665
+"41","Central ","Marina Square","Smile Designer's Dental Clinic","6 Raffles Blvd
+#B1-11
+Singapore 039594","6227 8885","Mon-Fri:
+1100-2000","Sat & Sun:
+1100-2000
+PH:
+Closed","", 1.290989, 103.857422
+"48","Central ","Eunos ","The Dental Practice (Geylang) Pte Ltd","797 Geylang Road
+Singapore 389679","6748 8678","Mon-Fri:
+0900 - 1300
+1400 - 1730","Sat & Sun:
+0900 - 1300
+PH:
+Closed","", 1.315099, 103.891952
+"49","Central ","Eunos ","The Dental Practice (Pasir Ris) ","Blk 735 Pasir Ris Street 72
+Pasir Ris West Plaza #02- 326
+Singapore 510735","6584 8160","Mon:
+Closed
+Tue & Thurs:
+0900- 2100
+Wed & Fri:
+0900- 1700","Sat:
+0900- 1700
+Sun & PH:
+Closed","", 1.379692, 103.936062
+"53","Central ","Dhoby Ghaut","TLC Dental Centre","9 Penang Road
+#07-27 Park Mall
+Singapore 238459","6338 6639
+","Mon-Fri:
+0900-1900
+","Sat:
+0900-1630
+Sun & PH:
+Closed","", 1.298048, 103.844577
+"58","Central ","Toa Payoh","Toofdoctors Dental Surgeons (Toa Payoh)","Blk 128 #01- 831
+Lorong 1 Toa Payoh
+Singapore 310182","6251 1811","Mon - Fri:
+0900 - 2100","Sat & Sun:
+0900-1700
+PH:
+Closed","", 1.2995092, 103.8370003
+"54","Central ","Toa Payoh","Toa Payoh Dental Centre Pte Ltd","107 Toa Payoh Lorong 1
+#01- 258
+Singapore 530107","6250 1492","Mon, Wed, Fri:
+1000- 2200
+Tue & Thur:
+1300- 2200","Sat & Sun:
+1000- 1800
+PH:
+Closed","", 1.353425, 103.890682
+"57","Central ","Tanjong Pagar","ToofDoctor Dental Surgeons (Tanjong Pagar) ","1 Tras Link #02- 07
+Orchid Hotel
+Singapore 078867","6221 1121","Mon-Fri:
+0900-1900","Sat & Sun:
+0900-1700
+PH:
+Closed","", 1.276993, 103.843891
+"56","Central ","City Hall ","ToofDoctor Dental Surgeons (Coleman) ","1 Coleman street
+#02-22
+Singapore 179803","6338 0090","Mon-Fri:
+0900-1900","Sat:
+0900-1700
+Sun & PH:
+Closed","", 1.291359, 103.851346
+"59","Central ","Clarke Quay","Tooth Angels & Co. Dental Surgeons (The Central)","6 Eu Tong Sen Street
+#B1- 01 The Central
+Singapore 059817","6222 6220","Mon-Fri:
+1000- 1900","Sat:
+1000- 1900
+Sun & PH:
+Closed","", 1.288424, 103.846694
+"55","Central ","Tanjong Pagar","ToofDoctor Dental Surgeons (Cantonment) ","1G Cantonment Road
+#01-03
+Singapore 080001","6634 1811","Mon-Fri:
+0900-2100","Sat & Sun:
+0900-1700
+PH:
+Closed","Appointment to start at 10am unless Emergency", 1.275489, 103.841417
+"52","Central ","Novena","Thomson Dental Centre","8 Sinaran Drive
+#07-08/16-19 Novena Specialist Center
+Singapore 307470","6255 0770","Mon-Fri:
+0900 - 1900","Sat:
+0900 - 1400
+Sun & PH:
+Closed","Appointment preferred", 1.320287, 103.845191
+"60","Central ","Bukit Timah","Tooth Angels & Co. Dental Surgeons Coronation Plaza Branch (TACC)","587 Bukit Timah Road
+#02- 34 Coronation Plaza
+Singapore 269707
+","6468 0189","Mon-Fri:
+1000- 1900","Sat:
+1000- 1900
+Sun & PH:
+Closed","", 1.323784, 103.810236
+"51","Central ","Orchard","The Smile Division Dental Surgery @ Orchard Pte Ltd","304 Orchard Road
+#02-105 Lucky Plaza
+Singapore 238863","6738 7990","Mon- Fri:
+0900- 1800","Sat:
+0900- 1300
+Sun & PH:
+Closed","", 1.30436, 103.833751
+"63","East","Bedok ","Advanced Dental Surgery Pte Ltd","Blk 56 #01-1294
+New Upper Changi Road
+Singapore 461056","6449 0246","Mon- Fri:
+0900 - 2100","Sat & Sun:
+0900 - 1700
+PH:
+Closed","", 1.325364, 103.941535
+"62","East","Tampines","Advanced Dental Surgery (Tampines) Pte Ltd","482 Tampines Street 43
+#01-238
+Singapore 520482","6789 2628","Mon- Fri:
+0900 - 2100","Sat & Sun:
+0900 - 1700
+PH:
+Closed","", 1.361307, 103.952521
+"70","East","East Coast","GPA Dentalcare @ Katong ","112 East Coast Road
+112 Katong
+Singapore 428802","6443 5750","Mon- Fri:
+0900- 1300, 1400- 2100","Sat & Sun:
+0900- 1300, 1400- 1800
+PH:
+Closed","Please call clinic for PH visit", 1.305511, 103.904622
+"64","East","East Coast","Canaan Dental Surgery Pte Ltd","29 Upper East Coast Road
+Crescendo Buiding
+Singapore 455291","6442 0293","Mon, Tue & Fri:
+0900- 1700, 1830- 2100
+Wed & Thur:
+0900- 1700","Sat:
+0900- 1700
+Sun & PH:
+Closed","", 1.313022, 103.926461
+"69","East","Katong","Glory Dental Surgery","865 Mountbatten Road
+#02- 02 Katong Shopping Centre
+Singapore 437844","6344 7747","Mon-Fri:
+0900-1300,1300-1800
+Mon evening(open)","Sat:
+0900-1300,1300-1600
+Sun & PH:
+Closed","", 1.303746, 103.901182
+"67","East","Changi","De Dental Practice Two Pte Ltd (Changi CityPoint)","Changi City Point Mall
+#02-17
+Singapore 486038","6543 6345","Mon-Fri:
+1000-1300, 1400-1700, 1800-2100","Sat:
+1000-1300, 1400-1700
+Sun/ PH:
+Closed","", 1.3360557, 103.9639813
+"66","East","Simei","De Dental Practice Pte Ltd","3 Simei Street 6
+#03-13 Eastpoint Shopping Centre
+Singapore 528833","6784 7800","Mon-Fri:
+1000-1300, 1400-1700, 1800-2100","Sat:
+1000-1300, 1400-1700
+Sun/ PH:
+Closed","", 1.342806, 103.952974
+"61","Central ","Bras Basah","True Dental in the City Pte Ltd","231 Gain Street
+#03-57 Bras Basah Complex
+Singapore 180231","6334 4183","Mon- Fri:
+0900 - 1700","Sat:
+0900 - 1300
+Sun & PH:
+Closed","", 1.297105, 103.853681
+"68","East","Kallang","Delta Dental Surgeons","12 Kallang Avenue
+#03-05 Aperia
+Singapore 339511","6341 6676","Mon-Fri:
+1000-2200","Sat:
+1000-1800
+Sun:
+1000-1400
+PH:
+Closed","", 1.3095811, 103.8642468
+"65","East","Tampines","Crown Dental Surgery (Tampines)","Blk 821 Tampines Street 81
+#01- 212
+Singapore 520821","6788 9110","Mon- Fri:
+0900- 1300, 1400- 1700, 1800- 2100","Sat:
+0900- 1300, 1400- 1700, 1800- 2100
+Sun:
+0900- 1300, 1400- 1700
+Ph:
+Closed","", 1.348648, 103.934491
+"72","East","Bedok ","Nuffield Dental Simpang Bedok","430 Upper Changi Road
+#01- 63 East Village
+Singapore 487048","6702 3238","Mon - Fri:
+0900 - 1200, 1200 - 1800, 1800 - 2100
+
+","Sat:
+0900 - 1200, 1300 - 1800, 1800 - 1900
+Sun & PH:
+Closed","", 1.3316792, 103.9462951
+"76","East","Bedok North","The Dental Practice (Bedok) Pte Ltd","746 Bedok Reservoir Road
+Singapore 470746","6242 5626","Mon/Thur/Fri:
+0900 - 1300, 1400 - 1700, 1800 - 2100
+Tue/Wed:
+0900 - 1300, 1400 - 1700","Sat & Sun:
+0900 - 1300, 1400 - 1700
+PH:
+Closed","", 1.337297, 103.921216
+"74","East","Changi","Straits Dental Group - CBP","1 Changi Business Park Crescent
+#01-08 Plaza 8
+Singapore 486025","6781 9118","Mon-Fri:
+0930-1830","Sat:
+0930-1530
+Sun & PH:
+Closed","", 1.3330169, 103.965452
+"75","East","Bedok","The Dental Boutique ","Blk 204 Bedok North St 1
+#01-401
+Singapore 460204","6876 1761","Mon- Fri:
+0900- 1300, 1400- 2100","Sat:
+0900- 1300, 1400- 1800
+Sun & PH:
+Closed","", 1.326535, 103.929898
+"80","East","Tampines","Yeo Dental Surgery ","5 Tampines Central 6
+#01-16 Telepark
+Singapore 529482","6784 3585","Mon & Fri:
+1000-1700
+Tues-Thurs:
+1000-1930","Sat/ Sun:
+1000-1300
+PH:
+Closed","By appointment", 1.353247, 103.942273
+"71","East","East Coast","Nuffield Dental Siglap","914 East Coast Road
+#01- 03 The Domain
+Singapore 459108","6636 1303","Mon- Fri:
+0900- 2100","Sat & Sun:
+0900- 2100
+PH:
+Closed","", 1.312499, 103.924427
+"77","East","Tampines","The Smile Division Dental Surgeons @ Tampines Pte Ltd","20 Tampines Central 1
+#01- 07 Tampines MRT Station
+Singapore 529538","6789 5488","Mon- Fri:
+0900- 1200, 1330- 1630, 1730- 2030","Sat:
+0900- 1200, 1300- 1600
+Sun:
+1000-1400
+PH:
+Closed","", 1.353448, 103.945119
+"79","East","Tampines","Universal Dental Centre","Blk 479 Tampines Street 44
+#01-231
+Singapore 520479","6588 1725","Mon-Fri:
+0900 - 2100
+Sat & Sun:
+0900 - 1500","PH:
+Closed","", 1.361342, 103.95368
+"73","East","Tampines","Pure Dental Practice Pte Ltd ","Blk 139 Tampines Street 11
+#01-54
+Singapore 521139","6782 8389","Mon:
+Closed
+Tues- Fri:
+0900-2100
+Wed:
+0900-1800","Sat & Sun:
+0900-1300
+PH:
+Closed","", 1.346653, 103.944868
+"78","East","Ubi","Ubi Dental Clinic","Blk 302 Ubi Ave 1
+#01-47
+Singapore 400302","6841 4080","Mon, Wed & Fri:
+0900-1300, 1400-1630, 1800-2000
+Tue & Thurs:
+0900-1300, 1400-1630","Sat:
+0900-1300, 1400-1630
+Sun & PH:
+Closed
+","", 1.329951, 103.900986
+"82","North","Bukit Timah","Pure NZ Dental","62 Jln Jurong Kechil
+Singapore 598584","6463 0257","Mon- Fri:
+0900- 1900","Sat:
+0900- 1700
+Sun & PH:
+Closed","", 1.340319, 103.773848
+"86","North ","Woodlands","Smiles R Us (Champions Court)","570A Woodlands Ave 1
+#01- 03
+Singapore 731570","6339 0223","Mon- Fri:
+1000 - 1300, 1400 - 1730, 1830 - 2100
+Night session closed on Tue & Fri","Sat:
+1000 - 1300, 1400 - 1800
+Sun & PH:
+Closed","", 1.430924, 103.790837
+"83","North","Yishun","The Smile Division @ Yishun Dental Surgery Pte Ltd","Blk 747 Yishun Street 72
+#01- 100
+Singapore 760747","6758 2112","Mon-Fri:
+0900- 1200, 1400- 1700, 1900- 2100","Sat:
+0900-1600, 1300-1600
+Sun:
+0900-1200
+PH:
+Closed","Dentist who prefers not to treat children", 1.428283, 103.833404
+"84","North","Yio Chu Kang","Yio Chu Kang Dental Surgery","194 Yio Chu Kang Road
+Serangoon Garden Way Junction
+Singapore 545641","6280 0939","Mon-Fri:
+0900-1200,1400-1700,1900-2100","Sat:
+0900-1600,1300-1600
+Sun & PH:
+Closed","", 1.362283, 103.873364
+"81","North","Yishun","I.Dental @ Northpoint Pte Ltd","930 Yishun Avenue 2
+#B1-62 Northpoint Shopping Centre
+Singapore 769098","6756 1868","Mon-Wed & Fri:
+1030 - 2200
+Thurs:
+Closed","Sat & Sun:
+1030 - 1700
+PH:
+Closed","", 1.429848, 103.835554
+"85","North ","Woodlands","Crest Dental Surgery ","Blk 724 Woodlands Ave 6
+#01-502
+Singapore 730724"," 6369 3369","Mon-Fri:
+0900-1300, 1400-1700, 1800-2100","Sat:
+0900 - 1200
+Sun & PH:
+Closed","Appointment basis only", 1.444466, 103.79864
+"89","Northeast","Ang Mo Kio ","Casa Dental (AMK)","Blk 710 Ang Mo Kio Ave 8
+#01-2611 Singapore 560710","6458 0667","Mon-Fri:
+1000 - 2030","Sat & Sun:
+1000 - 1700
+PH:
+Closed","", 1.371042, 103.84818
+"90","Northeast","Kovan","Crown Dental Surgery (Kovan)","Blk 203 Hougang Street 21
+#01- 63
+Singapore 530203","6280 8772","Mon- Fri:
+0900- 1300, 1400- 1700, 1800- 2100","Sat:
+0900- 1300, 1400- 1700, 1800- 2100
+Sun:
+0900- 1300
+PH:
+Closed","", 1.357428, 103.884693
+"88","North ","Woodlands","Sunshine Dental","900 South Woodlands Drive
+#03-04 Woodlands Civic Centre
+Singapore 730900","6365 4398","Mon-Fri:
+0900-2130","Sat:
+0900-1730
+Sun:
+0900-1300
+PH:
+Closed","", 1.435152, 103.787195
+"87","North ","Woodlands","Smiles R Us Dental (Woodlands)","768 Woodlands Ave 6
+#02- 06 Woodlands Mart
+Singapore 730768","6363 4556","Mon- Fri:
+1000 - 1300, 1400 - 1730, 1830 - 2100
+Night session closed on Tue & Fri","Sat:
+1000 - 1300, 1400 - 1800
+Sun & PH:
+Closed","", 1.445962, 103.798159
+"95","Northeast","Serangoon ","Pure Dental Studio","9A Kensington Park Road
+Serangoon Garden Estate
+Singapore 557261","6280 0150","Mon-Fri:
+0900-1300; 1400-1700; 1700-2030","Sat & Sun:
+0900-1300 (Opne on alternate Sundays)
+PH:
+Cllosed","", 1.3648229, 103.866127
+"91","Northeast","Hougang","Hougang Green Dental Surgery","#02-18 Hougang Green Shopping Mall
+Singapore 538719","6386 7800","Mon- Fri:
+0900- 1230, 1400- 1700, 1900- 2130","Sat & Sun:
+0900- 1230
+PH:
+Closed","Dentist who prefers not to treat children", 1.379502, 103.888221
+"98","Northeast","Hougang","The Smile Division Dental Surgery @ Hougang Central Pte Ltd","809 Hougang Central
+#01-166
+Singapore 530809","6385 7133","Mon- Fri:
+0900- 1200, 1330- 1630, 1730- 2030","Sat:
+0900- 1200, 1300- 1600
+Sun:
+0900- 1200
+PH:
+Closed","", 1.371321, 103.893785
+"94","Northeast","Kovan","Nuffield Dental Kovan","2 Kovan Road #01- 03
+Simon Plaza
+Singapore 548008","6281 4313","Mon - Fri:
+0900 - 1300, 1400 - 1800, 1800 - 2100
+
+","Sat:
+0900 - 1300, 1400 - 1900
+Sun & PH:
+Closed","", 1.36194, 103.884927
+"99","Northeast","Serangoon ","ToofDoctors Dental Surgeons","263 Serangoon Central Drive
+#01-71
+Singapore 550263","6487 5027","Mon-Fri:
+0900-2100","Sat & Sun:
+0900-1700
+PH:
+Closed","", 1.354197, 103.87199
+"92","Northeast","Kovan","King's Dental Surgery (Kovan)","Blk 204 #01- 99
+Hougang Street 21
+Singapore 530204","6288 4995","Mon- Sat:
+0900- 2100","Sun & PH:
+Closed","", 1.358853, 103.884919
+"97","Northeast","Ang Mo Kio","The Smile Division Dental Surgery @ AMK Pte Ltd","Blk 703 #01- 2537
+Ang Mo Kio Avenue 8
+Singapore 560703","6456 9330","Mon- Fri:
+0900- 1200, 1330- 1630, 1730- 2030","Sat:
+0900- 1200, 1300- 1600
+Sun:
+0900- 1200
+PH:
+Closed","", 1.369998, 103.847311
+"100","Northeast","Serangoon ","United Dental Surgery","Blk 152 Serangoon North Avenue 1
+#01- 330
+Singapore 550152","6280 8686","Mon- Fri:
+0830- 1230, 1400- 1600, 1830- 2030","Sat:
+0830- 1230, 1400- 1600
+Sun & PH:
+Closed","Dentist who prefers not to treat children", 1.369405, 103.872572
+"96","Northeast","Hougang","The Smile Division @ Primecare Dental Clinic Pte Ltd","Blk 681 #01-823
+Hougang Avenue 8
+Singapore 530681","6386 8136","Mon-Fri:
+0900- 1200, 1330-1630, 1730-2030","Sat:
+0900- 1200, 1300- 1600
+Sun:
+0900- 1200
+PH:
+Closed","", 1.373235, 103.886822
+"93","Northeast","Hougang","MySmile Dental Clinic","108 Hougang Avenue
+Hougang Avenue 1
+#01- 1307
+Singapore 530108","6280 8140","Mon- Fri:
+0900- 2100","Sat:
+0900- 1700
+Sun:
+0900- 1230
+PH:
+Closed","", 1.352862, 103.889926
+"101","West","Jurong","Advent Dental Surgery","530A Jurong West Avenue 1
+#01- 907
+Singapore 641530","66596778","","","", 1.348097, 103.7156847
+"103","West","Clementi","Casa Dental","420A Clementi Avenue 1
+#01-02 Casa Clementi
+Singapore 121420","6334 6984","Mon-Fri:
+1000-1300, 1400-1800, 1800-2000","Sat & Sun:
+1000-1300, 1400-1700
+PH:
+Closed","", 1.309752, 103.768627
+"104","West","Jurong","Dental Trendz Pte Ltd","1 Jurong West Central 2
+#01-16A&B Jurong Point Shopping Centre
+Singapore 648886","6794 0788","Mon-Fri:
+0900-1300, 1400-1700, 1800-2100;","Sat & Sun:
+1000-1300, 1400-1700
+PH:
+Closed","", 1.339874, 103.706464
+"107","West","Clementi","Greenlife Dental Clinic (Clementi) Pte Ltd","Blk 446 Clementi Ave 3
+#01-187
+Singapore 120446","6777 1712","Mon-Fri:
+0900-1300, 1400-1800, 1830-2100","Sat:
+0900-1300, 1400-1700
+Sun/PH: Closed","", 1.312444, 103.764777
+"109","West","Bukit Batok","Rainbow Dental Surgery","Blk 376 Bukit Batok Street 31
+#01-102
+Singapore 650376","6566 1637","Mon- Fri:
+0930-1230, 1330-1600, 1830-2100","Sat & Sun:
+0930-1230
+PH:
+Closed","", 1.358394, 103.749499
+"108","West","Yew Tee","Greenlife Dental Clinic (Yew Tee) Pte Ltd","Blk 624 Choa Chu Kang Street 62
+#02- 228 Yew Tee Square
+Singapore 680624","6765 5759","Mon-Fri:
+0900-1200, 1300-1600, 1730-2000
+Thurs:
+Closed","Sat/ Sun:
+0900-1200
+PH:
+Closed","", 1.398094, 103.7468279
+"106","West","Holland Village","GPA Dentalcare @ Holland V","3 Lorong Liput #02- 28 to 30
+Holland V Shopping Mall
+Singapore 277725","6466 4900","Mon- Fri:
+0900- 1300, 1400- 1800","Sat & Sun:
+0900- 1300, 1400- 1800
+PH:
+Closed","Please call clinic for PH visit", 1.310693, 103.795096
+"105","West","Jurong","Gateway Dental Centre","Blk 134 Jurong Gateway Road
+#02-307
+Singapore 600134","6569 3328","Mon& Thurs:
+1000-1300, 1400-1700
+Tues, Wed & Fri:
+1000-1300, 1400-1800","Sat:
+0900-1300
+Sun & PH:
+Closed","By appointment", 1.334023, 103.738849
+"110","West","Clementi","Rapha Specialist Clinic","Blk 352 Clementi Ave 2
+#01-103
+Singapore 120325","6779 6961","Mon-Fri:
+1000-1300, 1400-1800","Sat & Sun:
+1000-1500
+PH:
+Closed","Strictly by appointment", 1.315245, 103.766757
+"102","West","Bukit Panjang","Bethel Dental Surgery","1 Jelebu Road
+#01-63 Bukit Panjang Plaza
+Singapore 677743","6767 8086","Mon-Fri:
+1000-1300, 1400-1700, 1800-2100","Sat:
+1000-1300, 1400-1700, 1800-2100
+Sun:
+Call for Appointment
+PH:
+Closed","", 1.379962, 103.7641529
+"118","West ","Jurong","Fullerton Dental @ NTU","36 Nanyang Avenue
+#01-02
+Singapore 639801","6790 8331","Mon- Fri:
+0900- 1800","Sat:
+0900- 1300
+Sun & PH:
+Closed","", 1.345568, 103.682602
+"116","West ","West Coast","Atria-Pan Dental Group Pte Ltd (Pandan Branch)","Blk 415 Pandan Gardens
+#01-118
+Singapore 600415","6566 7781","Mon-Fri:
+0930-1230, 1400-1700, 1830-2000","Sat: 0930 - 1600
+Sun: 0930 - 1200
+PH:
+Closed","", 1.320827, 103.748049
+"111","West","Jurong","Taman Jurong Dental Centre by FDC","399 Yung Sheng Road
+#01- 06 Taman Jurong Shopping Centre
+Singapore 610399","6225 9383","Mon - Fri:
+1000 - 2200
+Sat:
+0900 - 1800","Sun:
+1030 - 1500
+PH:
+Closed","", 1.3347739, 103.721053
+"115","West","Bukit Batok","Thong Hoe Dental Surgery Pte Ltd","153 Bukit Batok Street 11
+#01-288
+Singapore 650153","6565 3233","Mon- Fri:
+0900 - 2100","Sat & Sun:
+0900 - 1700
+PH:
+Closed","", 1.347569, 103.744289
+"113","West","Choa Chu Kang","The Smile Division Dental Surgeons @ CCK Pte Ltd","10 Choa Chu Kang Avenue 4 #01- 16
+Choa Chu Kang MRT Station
+Singapore 689810","6464 6343","Mon- Fri:
+0900- 1200, 1330- 1630, 1730- 2030","Sat:
+0900- 1200, 1300- 1600
+Sun:
+0900- 1300
+PH:
+Closed","", 1.385659, 103.744252
+"119","West ","West Coast","L’ving Vine Dental Clinic Pte Ltd","154 West Coast Road
+#01-84 West Coast Plaza
+Singapore 127371","6775 8385","Mon-Fri:
+0900-1300, 1400-1700, 1800-2100","Sat/ Sun:
+1000-1300, 1400-1700
+PH:
+Closed","", 1.303843, 103.766292
+"120","West ","West Coast","Westfield Dental Surgery Pte Ltd","154 West Coast Road
+#02-14/15 West Coast Plaza
+Singapore 127371","6775 9868","Mon-Fri:
+1000-2000","Sat:
+1000-1700
+Sun & PH:
+Closed","", 1.303843, 103.766292
+"114","West","Choa Chu Kang","The Smile Division Dental Surgery @ CCK Pte Ltd","Blk 306 #01- 683
+Choa Chu Kang Avenue 4
+Singapore 680306","6462 3349","Mon- Fri:
+0900- 1200, 1330- 1630, 1730-2030","Sat:
+0900- 1200, 1300-1600
+Sun:
+0900-1200
+PH:
+Closed","", 1.384944, 103.742866
+"117","West ","Clementi","Dr Smile Dental Clinic","Blk 443 Clementi Avenue 2
+#01- 81
+Singapore 120443","6779 2783","Mon- Fri:
+0900- 1300, 1400- 1800, 1800- 2100","Sat & Sun:
+0900- 1300, 1400- 1800
+PH:
+Closed","", 1.314195, 103.764019
+"112","West","Choa Chu Kang","TDH The Dental Hub (CCK)","21 Choa Chu Kang North 6
+#B1- 24 Yew Tee Point
+Singapore 689578","6634 2535","Mon- Fri:
+0900- 2100","Sat & Sun:
+0900- 1800
+PH:
+Closed","", 1.39729, 103.746546
