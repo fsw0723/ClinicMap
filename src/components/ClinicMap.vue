@@ -1,12 +1,24 @@
 <template>
-  <gmap-map
-    :center="center"
-    :zoom="zoom"
-    style="width: 100%; height: 500px"
-  >
-    <gmap-info-window :options="infoOptions" :position="infoWindowPos" :opened="infoWinOpen" :content="infoContent" @closeclick="infoWinOpen=false"></gmap-info-window>
-    <gmap-marker v-for="(m,i) in markers" :position="m.position" :clickable="true" @click="toggleInfoWindow(m,i)"></gmap-marker>
-  </gmap-map>
+  <div>
+    <div>
+      <input type="radio" id="clinic" value="clinic" v-model="viewType" v-on:change="readClinicFile">
+      <label for="clinic">Clinic</label>
+      <br>
+      <input type="radio" id="dental" value="dental" v-model="viewType" v-on:change="readClinicFile">
+      <label for="dental">Dental</label>
+      <br>
+      <span>Picked: {{ viewType }}</span>
+    </div>
+    <gmap-map
+      :center="center"
+      :zoom="zoom"
+      style="width: 100%; height: 500px"
+    >
+      <gmap-info-window :options="infoOptions" :position="infoWindowPos" :opened="infoWinOpen" :content="infoContent" @closeclick="infoWinOpen=false"></gmap-info-window>
+      <gmap-marker v-for="(m,i) in markers" :position="m.position" :clickable="true" @click="toggleInfoWindow(m,i)"></gmap-marker>
+    </gmap-map>
+  </div>
+
 </template>
 
 <script>
@@ -24,6 +36,7 @@
     name: 'hello',
     data () {
       return {
+        viewType: 'dental',
         center: {lat: 1.4017128, lng: 103.793967},
         infoOptions: {
           pixelOffset: {
@@ -60,14 +73,14 @@
       readClinicFile() {
         var rawFile = new XMLHttpRequest();
         var vm = this;
-        rawFile.open("GET", '../../static/clinic.csv', false);
+        rawFile.open("GET", `../../static/${vm.viewType}.csv`, false);
         rawFile.onreadystatechange = function ()
         {
           if(rawFile.readyState === 4)
           {
             if(rawFile.status === 200 || rawFile.status == 0)
             {
-              parse(rawFile.responseText, function(err, output){
+              parse(rawFile.responseText, {columns: true, trim: true}, function(err, output){
                 vm.processFile(output)
                 vm.addMarkersToMap()
               });
@@ -77,42 +90,40 @@
         rawFile.send(null);
       },
       processFile(input) {
+        this.clinics = []
         input.forEach(line => {
-          console.log(line)
-          this.clinics.push({
-            code: line[2],
-            name: line[3],
-            address: line[4],
-            postal: line[5],
-            tel: line[6],
-            fax: line[7],
-            weekday: line[8],
-            sat: line[9],
-            sun: line[10],
-            pb: line[11],
-            remark: line[12],
-            lat: Number(line[13]),
-            lng: Number(line[14])
-          })
+          this.clinics.push(line)
         })
       },
       addMarkersToMap() {
         let vm = this
+        vm.markers = []
         vm.clinics.forEach(clinic => {
-          vm.markers.push({
-            position: {lat: clinic.lat, lng: clinic.lng},
-            infoText: `<div><b> ${clinic.name}</b></div>` +
-            `<div>Address: ${clinic.address}</div>` +
-            `<div>Postal code: ${clinic.postal}</div>` +
-            `<div>Tel: ${clinic.tel}</div>` +
-            `<div>Fax: ${clinic.fax}</div>` +
-            `<div>Opening hours: </div>` +
-            `<div>Mon - Fri: ${clinic.weekday}</div>` +
-            `<div>Sat: ${clinic.sat}</div>` +
-            `<div>Sun: ${clinic.sun}</div>` +
-            `<div>Public holiday: ${clinic.pb}</div>`
-          })
-
+          if(vm.viewType === 'clinic') {
+            vm.markers.push({
+              position: {lat: Number(clinic["LAT"]), lng: Number(clinic["LNG"])},
+              infoText: `<div><b> ${clinic["CLINIC"]}</b></div>` +
+              `<div>Address: ${clinic["ADDRESS"]}</div>` +
+              `<div>Postal code: ${clinic["POSTAL"]}</div>` +
+              `<div>Tel: ${clinic["TEL"]}</div>` +
+              `<div>Fax: ${clinic["FAX"]}</div>` +
+              `<div>Opening hours: </div>` +
+              `<div>Mon - Fri: ${clinic["OPERATING HOURS MON - FRI"]}</div>` +
+              `<div>Sat: ${clinic["SAT"]}</div>` +
+              `<div>Sun: ${clinic["SUN"]}</div>` +
+              `<div>Public holiday: ${clinic["PUBLIC HOLIDAY"]}</div>`
+            })
+          } else {
+            vm.markers.push({
+              position: {lat: Number(clinic["LAT"]), lng: Number(clinic["LNG"])},
+              infoText: `<div><b> ${clinic["CLINIC NAME"]}</b></div>` +
+              `<div>Address: ${clinic["ADDRESS"]}</div>` +
+              `<div>Tel: ${clinic["TEL"]}</div>` +
+              `<div>Opening hours: </div>` +
+              `<div>Mon - Fri: ${clinic["WEEKDAYS"]}</div>` +
+              `<div>${clinic["SAT/SUN/PH"]}</div>`
+            })
+          }
         })
       },
       toggleInfoWindow: function(marker, idx) {
