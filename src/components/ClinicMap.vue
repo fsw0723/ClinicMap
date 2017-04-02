@@ -1,18 +1,39 @@
+<style scoped>
+  h1 {
+    text-transform: uppercase;
+  }
+
+  .options {
+    text-align: right;
+    margin-bottom: 24px;
+  }
+
+  button {
+    margin-top: 12px;
+  }
+
+  .body {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+</style>
+
+
 <template>
-  <div>
-    <div>
+  <div class="body">
+    <h1>{{viewType}} MAP</h1>
+    <div class="options">
       <input type="radio" id="clinic" value="clinic" v-model="viewType" v-on:change="readClinicFile">
       <label for="clinic">Clinic</label>
-      <br>
       <input type="radio" id="dental" value="dental" v-model="viewType" v-on:change="readClinicFile">
       <label for="dental">Dental</label>
       <br>
-      <span>Picked: {{ viewType }}</span>
+      <button v-on:click="getCurrentLocation">Show my current position</button>
     </div>
     <gmap-map
       :center="center"
       :zoom="zoom"
-      style="width: 100%; height: 500px"
+      style="width: 100%; height: 600px"
     >
       <gmap-info-window :options="infoOptions" :position="infoWindowPos" :opened="infoWinOpen" :content="infoContent" @closeclick="infoWinOpen=false"></gmap-info-window>
       <gmap-marker v-for="(m,i) in markers" :position="m.position" :clickable="true" @click="toggleInfoWindow(m,i)"></gmap-marker>
@@ -36,7 +57,7 @@
     name: 'hello',
     data () {
       return {
-        viewType: 'dental',
+        viewType: 'clinic',
         center: {lat: 1.4017128, lng: 103.793967},
         infoOptions: {
           pixelOffset: {
@@ -60,11 +81,11 @@
       this.readClinicFile()
     },
     methods: {
-      getLocation() {
+      getCurrentLocation() {
         if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition((position) => {
             this.center = {lat: position.coords.latitude, lng: position.coords.longitude}
-            this.zoom = 13
+            this.zoom = 16
           })
         } else {
           x.innerHTML = "Geolocation is not supported by this browser.";
