@@ -1,26 +1,6 @@
-<style scoped>
-  h1 {
-    text-transform: uppercase;
-  }
-
-  .options {
-    text-align: right;
-    margin-bottom: 24px;
-  }
-
-  button {
-    margin-top: 12px;
-  }
-
-  .body {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-</style>
-
-
 <template>
   <div class="body">
+    <div class="loading" v-if="loading"><h2>Loading...</h2></div>
     <h1>{{viewType}} MAP</h1>
     <div class="options">
       <input type="radio" id="clinic" value="clinic" v-model="viewType" v-on:change="readClinicFile">
@@ -57,6 +37,7 @@
     name: 'hello',
     data () {
       return {
+        loading: false,
         viewType: 'clinic',
         center: {lat: 1.4017128, lng: 103.793967},
         infoOptions: {
@@ -83,9 +64,11 @@
     methods: {
       getCurrentLocation() {
         if (navigator.geolocation) {
+          this.loading = true;
           navigator.geolocation.getCurrentPosition((position) => {
             this.center = {lat: position.coords.latitude, lng: position.coords.longitude}
             this.zoom = 16
+            this.loading = false;
           })
         } else {
           x.innerHTML = "Geolocation is not supported by this browser.";
@@ -164,7 +147,37 @@
   }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+  h1 {
+    text-transform: uppercase;
+  }
 
+  .options {
+    text-align: right;
+    margin-bottom: 24px;
+  }
+
+  button {
+    margin-top: 12px;
+  }
+
+  .body {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .loading {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
 </style>
