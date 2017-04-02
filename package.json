@@ -11,8 +11,9 @@
     "deploy": "git subtree push --prefix dist heroku master"
   },
   "dependencies": {
-    "vue2-google-maps": "^0.7.1",
-    "vue": "^2.2.2"
+    "vue": "^2.2.2",
+    "vue-awesome": "^2.2.3",
+    "vue2-google-maps": "^0.7.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",

@@ -13,11 +13,15 @@
     <gmap-map
       :center="center"
       :zoom="zoom"
-      style="width: 100%; height: 600px"
+      style="width: 100%; height: 550px"
     >
       <gmap-info-window :options="infoOptions" :position="infoWindowPos" :opened="infoWinOpen" :content="infoContent" @closeclick="infoWinOpen=false"></gmap-info-window>
       <gmap-marker v-for="(m,i) in markers" :position="m.position" :clickable="true" @click="toggleInfoWindow(m,i)"></gmap-marker>
     </gmap-map>
+    <div class="link">
+      <a href="https://github.com/fsw0723/ClinicMap" target="_blank"><icon name="github" scale="2" ></icon></a>
+      <a href="mailto:sfang@homeaway.com"><icon name="envelope" scale="2" ></icon> </a>
+    </div>
   </div>
 
 </template>
@@ -26,6 +30,9 @@
   import * as VueGoogleMaps from 'vue2-google-maps';
   import Vue from 'vue';
   import parse from 'csv-parse';
+  import 'vue-awesome/icons'
+  import Icon from 'vue-awesome/components/Icon.vue'
+  Vue.component('icon', Icon)
 
   Vue.use(VueGoogleMaps, {
     load: {
@@ -179,5 +186,15 @@
     align-items: center;
     justify-content: center;
     color: white;
+  }
+
+  .link {
+    margin-top: 12px;
+    text-align: right;
+  }
+
+  .link a {
+    color: black;
+    margin-left: 12px;
   }
 </style>
